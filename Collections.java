@@ -1,0 +1,10 @@
+Java
+Python
+HTML
+CSS
+node.js
+React.js
+Angular.js
+JavaScript
+DBMS
+SQL
